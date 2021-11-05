@@ -1,0 +1,63 @@
+body {
+    text-align:center;
+    padding: 0 30px;
+    font-size: 24px;
+    line-height: 26px;
+    font-family: "Comic Sans MS", serif; 
+    color:rgb(0, 0, 0);
+    margin-bottom:10px; 
+    background: #ffffff url("img/fon2.png") no-repeat top center;
+    margin-left:321px;
+    margin-right:321px;
+  }
+  h1
+  {
+    background-image: url("img/lap.jpg");
+    border: 5px solid #000000;
+    padding:30px;
+    font-size: 40px;
+  }
+ 
+  .avatar
+  {
+    border: 5px solid #000000;
+  }
+  .memo
+  {
+    background-color: white;
+    border: 5px solid #000000;
+    line-height: 0px;
+  }
+  div
+  {
+    border: 5px solid #000000;
+    background-image: url("img/lap.jpg");
+  }
+  a
+  {
+    color:sandybrown; 
+  }
+  nav, span
+  {
+    white-space:pre;
+  }
+.razmetka
+{
+    background-color: white;
+    text-align: center;
+    text-transform:uppercase;
+    font-size: 24px;
+    color:sandybrown;
+}
+  
+  pre {
+    line-height: normal;
+    font-family: "Courier New", "Courier", monospace;
+    color:black;
+  }
+  footer
+  {
+    margin-top: 110px;
+    background-image: url("img/lap.jpg");
+     border: 5px solid #000000;
+  }
